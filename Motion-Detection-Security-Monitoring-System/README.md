@@ -33,7 +33,6 @@ The current implementation is designed to run in Google Colab using browser-base
 7. Move an object in front of the camera to test motion detection.
 8. Stop the live detection when finished.
 
-
 ## How the System Works
 
 1. The system captures a webcam frame.
